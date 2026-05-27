@@ -1,5 +1,7 @@
 # WildLLM
 
+ICWSM 2026 Paper: [WildLLM: Uncovering Hidden Wildlife Trafficking on Social Media with Augmented and Fine-Tuned LLMs](https://ojs.aaai.org/index.php/ICWSM/article/view/42629)
+
 Wildlife trafficking is a serious global issue that increasingly uses online platforms for illegal trade. The dataset aims to help determine and prevent such activities through automated content analysis. 
 
 Our research focused on using machine learning and large language models to identify wildlife trafficking patterns in online content, contributing to conservation efforts and the protection of endangered species. 
